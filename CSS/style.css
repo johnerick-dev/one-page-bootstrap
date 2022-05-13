@@ -20,6 +20,17 @@
 .card-text {
     font-size: 14pt;
 }
+#titulo-navegador {
+    width: 120rem;
+    height: 12rem;
+
+
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(218, 218, 218);
+}
 footer {
     width: 100%;
     height: 5rem;
